@@ -19,9 +19,9 @@ re (Regular Expressions) – for text cleaning
 📦 Project Structure
 web_scrap_practice/
 │
-├── web_scrapping_practice.py   # main scraper file
-├── README.md                   # project documentation
-└── output/                     # optional (you can add CSV/JSON output later)
+├── web_scrapping_practice.py  
+├── README.md                   
+└── output                  
 
 ▶️ How to Run the Script
 1) Install dependencies:
